@@ -1,0 +1,14 @@
+[project]
+name = "video-cuts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datetime>=5.5",
+    "ffmpeg>=1.4",
+    "ipykernel>=6.29.5",
+    "ipython>=8.32.0",
+    "pathlib>=1.0.1",
+    "yt-dlp>=2025.2.19",
+]
